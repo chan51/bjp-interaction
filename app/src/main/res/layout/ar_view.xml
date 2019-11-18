@@ -1,0 +1,38 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".HelloAR"
+    android:theme="@style/AppTheme"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fullscreen_content">
+
+        <FrameLayout
+            android:id="@+id/preview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:textSize="16dp"
+            android:gravity="center"
+            android:layout_weight="2"
+            android:id="@+id/listButton"
+            android:text="Related Content"
+            android:layout_marginBottom="-2dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorWhite"
+            android:layout_gravity="bottom|center"
+            android:background="@color/colorSecondary" />
+
+        <include
+            layout="@layout/tab_view"
+            android:visibility="gone"
+            tools:ignore="IncludeLayoutParam"
+            android:background="@android:color/transparent" />
+    </android.support.design.widget.CoordinatorLayout>
+</FrameLayout>

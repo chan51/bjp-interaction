@@ -1,0 +1,193 @@
+{
+  "images" :
+  [
+    {
+      "image" : "all_in_one_1.jpg",
+      "name" : "all_in_one_1"
+    },
+    {
+      "image" : "poster_01.jpg",
+      "name" : "poster_01"
+    },
+    {
+      "image" : "poster_02.jpg",
+      "name" : "poster_02"
+    },
+    {
+      "image" : "poster_03.jpg",
+      "name" : "poster_03"
+    },
+    {
+      "image" : "poster_04.jpg",
+      "name" : "poster_04"
+    },
+    {
+      "image" : "elephanta.jpg",
+      "name" : "elephanta"
+    },
+    {
+      "image" : "iskcon.jpg",
+      "name" : "iskcon"
+    },
+    {
+      "image" : "shivaji.jpg",
+      "name" : "shivaji"
+    },
+    {
+      "image" : "new_poster_01.jpg",
+      "name" : "new_poster_01"
+    },
+    {
+      "image" : "new_poster_02.jpg",
+      "name" : "new_poster_02"
+    },
+    {
+      "image" : "new_poster_03.jpg",
+      "name" : "new_poster_03"
+    },
+    {
+      "image" : "new_poster_04.jpg",
+      "name" : "new_poster_04"
+    },
+    {
+      "image" : "gajendra_singh_agriculture_01.jpg",
+      "name" : "gajendra_singh_agriculture_01"
+    },
+    {
+      "image" : "ppc_record.jpg",
+      "name" : "ppc_record"
+    },
+    {
+      "image" : "ppc_namaskar.jpg",
+      "name" : "ppc_namaskar"
+    },
+    {
+      "image" : "ppc_with_modi_ji_01.jpg",
+      "name" : "ppc_with_modi_ji_01"
+    },
+    {
+      "image" : "ppc_with_modi_ji_02.jpg",
+      "name" : "ppc_with_modi_ji_02"
+    },
+    {
+      "image" : "ppc_gas_connection.jpg",
+      "name" : "ppc_gas_connection"
+    },
+    {
+      "image" : "ppc_with_amit_shah.jpg",
+      "name" : "ppc_with_amit_shah"
+    },
+    {
+      "image" : "ppc_with_vasundhara.jpg",
+      "name" : "ppc_with_vasundhara"
+    },
+    {
+      "image" : "ppc_with_modi_statue.jpg",
+      "name" : "ppc_with_modi_statue"
+    },
+    {
+      "image" : "ppc_in_conference_01.jpg",
+      "name" : "ppc_in_conference_01"
+    },
+    {
+      "image" : "ppc_in_conference_02.jpg",
+      "name" : "ppc_in_conference_02"
+    },
+    {
+      "image" : "ppc_in_conference_03.jpg",
+      "name" : "ppc_in_conference_03"
+    },
+    {
+      "image": "ppc_about_rail.jpg",
+      "name": "ppc_about_rail"
+    },
+    {
+      "image": "ppc_about_pali.jpg",
+      "name": "ppc_about_pali"
+    },
+    {
+      "image": "ppc_about_family.jpg",
+      "name": "ppc_about_family"
+    },
+    {
+      "image": "ppc_with_public.jpg",
+      "name": "ppc_with_public"
+    },
+    {
+      "image": "ppc_pali_vikas.jpg",
+      "name": "ppc_pali_vikas"
+    },
+    {
+      "image": "ppc_modi_work.jpg",
+      "name": "ppc_modi_work"
+    },
+    {
+      "image": "ppc_bjp_work.jpg",
+      "name": "ppc_bjp_work"
+    },
+    {
+      "image": "ppc_parliament_award.jpg",
+      "name": "ppc_parliament_award"
+    },
+    {
+      "image": "ppc_modi_kushal.jpg",
+      "name": "ppc_modi_kushal"
+    },
+    {
+      "image": "ppc_swachh_bharat.jpg",
+      "name": "ppc_swachh_bharat"
+    },
+    {
+      "image": "ppc_about_agriculture.jpg",
+      "name": "ppc_about_agriculture"
+    },
+    {
+      "image": "ppc_about_clean_water.jpg",
+      "name": "ppc_about_clean_water"
+    },
+    {
+      "image": "ppc_together_with_pali.jpg",
+      "name": "ppc_together_with_pali"
+    },
+    {
+      "image" : "ppc_electricity_01.jpg",
+      "name" : "ppc_electricity_01"
+    },
+    {
+      "image" : "ppc_electricity_02.jpg",
+      "name" : "ppc_electricity_02"
+    },
+    {
+      "image" : "ppc_done_for_rajmarg.jpg",
+      "name" : "ppc_done_for_rajmarg"
+    },
+    {
+      "image" : "ppc_digital_kendra.jpg",
+      "name" : "ppc_digital_kendra"
+    },
+    {
+      "image": "ppc_health_center.jpg",
+      "name": "ppc_health_center"
+    },
+    {
+      "image": "pc_mohan_speech_01.jpg",
+      "name": "pc_mohan_speech_01"
+    },
+    {
+      "image": "pc_mohan_swatchh_bharath.jpg",
+      "name": "pc_mohan_swatchh_bharath"
+    },
+    {
+      "image": "modi_main_bhi_chowkidar.jpg",
+      "name": "modi_main_bhi_chowkidar"
+    },
+    {
+      "image": "kerala_bjp_parivarthana_yatra.jpg",
+      "name": "kerala_bjp_parivarthana_yatra"
+    },
+    {
+      "image": "girish_bapat_poster_01.jpg",
+      "name": "girish_bapat_poster_01"
+    }
+  ]
+}

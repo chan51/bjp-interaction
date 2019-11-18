@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1045343592011",
+    "firebase_url": "https://croi-bjp-interaction.firebaseio.com",
+    "project_id": "croi-bjp-interaction",
+    "storage_bucket": "croi-bjp-interaction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045343592011:android:54f796795e814f4b",
+        "android_client_info": {
+          "package_name": "croi.bjp.interaction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045343592011-rfhvqrlmbeebr6227h3gknijv5bk5ueu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "croi.bjp.interaction",
+            "certificate_hash": "8ac663e8bd2c12a1f4a8a27e800a0398fc0a58d9"
+          }
+        },
+        {
+          "client_id": "1045343592011-29omopm9gajbup9lb2em7pf8an3fgeiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFi95WiAv3t-CEvrZGyUTaqwJ7rgnklbE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045343592011-29omopm9gajbup9lb2em7pf8an3fgeiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

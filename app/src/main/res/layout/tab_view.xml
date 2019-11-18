@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorWhite"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:id="@+id/tabViewLayout"
+    tools:context=".HelloAR">
+
+    <android.support.design.widget.TabLayout
+        app:tabGravity="fill"
+        android:id="@+id/tabLayout"
+        tools:ignore="MissingConstraints"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:tabTextColor="@color/colorBlack"
+        android:background="@color/colorPrimary"
+        app:tabSelectedTextColor="@color/colorWhite">
+    </android.support.design.widget.TabLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewPager"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/tabLayout" />
+</android.support.constraint.ConstraintLayout>

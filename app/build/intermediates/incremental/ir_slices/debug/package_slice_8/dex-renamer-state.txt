@@ -1,0 +1,4 @@
+#Sat Mar 30 13:45:24 IST 2019
+base.0=/media/onepinboard/Elements/HollyWood/chandan/Documents/new backup/BJP Interaction/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorGrey">#A8A8A8</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorPrimary">#F5A623</color>
+    <color name="colorSecondary">#00A551</color>
+
+    <array name="array_dot_active">
+        <item>@color/colorSecondary</item>
+        <item>@color/colorSecondary</item>
+        <item>@color/colorSecondary</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/colorGrey</item>
+        <item>@color/colorGrey</item>
+        <item>@color/colorGrey</item>
+    </array>
+</resources>

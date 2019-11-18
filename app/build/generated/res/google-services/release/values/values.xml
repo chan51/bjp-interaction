@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1045343592011-29omopm9gajbup9lb2em7pf8an3fgeiq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://croi-bjp-interaction.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1045343592011</string>
+    <string name="google_api_key" translatable="false">AIzaSyBFi95WiAv3t-CEvrZGyUTaqwJ7rgnklbE</string>
+    <string name="google_app_id" translatable="false">1:1045343592011:android:54f796795e814f4b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBFi95WiAv3t-CEvrZGyUTaqwJ7rgnklbE</string>
+    <string name="google_storage_bucket" translatable="false">croi-bjp-interaction.appspot.com</string>
+    <string name="project_id" translatable="false">croi-bjp-interaction</string>
+</resources>
